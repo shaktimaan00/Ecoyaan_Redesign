@@ -144,7 +144,7 @@ const About = () => {
                         </ul>
                     </div>
                     <div className='w-full px-2 md:px-[3rem]'>
-                        <p className='text-center bg-[#DEAC80] rounded-lg px-5 py-4'>
+                        <p className='text-center bg-[#DEAC80] rounded-lg px-5 py-[2rem]'>
                         Here comes Founder Past Experiences and Expertise. <br /><br />
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos doloribus eligendi dolorum eaque illum, ut in, cum rerum aperiam molestias ipsam consectetur autem accusamus? Ducimus fugiat optio quod pariatur possimus?
                         </p>
