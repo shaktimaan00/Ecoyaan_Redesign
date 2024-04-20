@@ -3,7 +3,7 @@ import logo1 from '../assets/logo1.png'
 
 const Footer = () => {
   return (
-    <section className='flex flex-col gap-10 '>
+    <section className='flex flex-col gap-10 px-3 sm:px-[3rem]'>
         <div className='flex justify-between gap-10 px-4 md:px-10 pt-10 flex-col md:flex-row'>
             <div className="left flex justify-evenly flex-wrap sm:flex-nowrap gap-3 md:gap-[4rem] ">
                 <ul className='flex flex-col gap-[0.2rem] cursor-pointer '>
